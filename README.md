@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Aashik%20Khatri&fontSize=48&fontColor=00ff41&fontAlignY=35&desc=Aspiring%20Cybersecurity%20Student&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-<a href="https://linkedin.com/in/aashik-khatri"><img src="https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000" /></a>
+<a href="https://linkedin.com/in/aashikkhatri"><img src="https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000" /></a>
 <a href="mailto:aashikkc2@gmail.com"><img src="https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=000000" /></a>
 <a href="https://github.com/iamgroot400"><img src="https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=000000" /></a>
 
