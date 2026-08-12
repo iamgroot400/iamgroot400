@@ -1,12 +1,14 @@
 <div align="center">
 
-# Aashik Khatri
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Aashik%20Khatri&fontSize=48&fontColor=00ff41&fontAlignY=35&desc=Aspiring%20Cybersecurity%20Professional&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-**Aspiring Cybersecurity Professional · Developer**
+<a href="https://linkedin.com/in/aashik-khatri"><img src="https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000" /></a>
+<a href="mailto:aashikkc2@gmail.com"><img src="https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=000000" /></a>
+<a href="https://github.com/iamgroot400"><img src="https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=000000" /></a>
 
-*Learning to break things safely so I can build things securely.*
+<br/>
 
-[LinkedIn](https://linkedin.com/in/aashik-khatri) · [Email](mailto:aashikkc2@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=whoami+%3E+aashik+khatri;sudo+access+granted+%E2%9C%93;breaking+things+to+learn+how+to+defend+them;compiling+curiosity.exe...)](https://git.io/typing-svg)
 
 </div>
 
@@ -35,21 +37,28 @@ I'm working my way into cybersecurity — learning how systems get attacked so I
 
 <div align="center">
 
-| Stats | Top Languages | Streak |
-|-------|--------------|--------|
-| ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamgroot400&theme=tokyonight) | ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamgroot400&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com?user=iamgroot400&theme=tokyonight&hide_border=true) |
+<img src="https://github-readme-stats.vercel.app/api?username=iamgroot400&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamgroot400&theme=highcontrast&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgroot400&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" height="165"/>
 
 </div>
 
 ---
 
-## Contribution Snake
+## Live Activity Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iamgroot400/iamgroot400/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamgroot400&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true" width="100%"/>
+
 </div>
 
+---
+
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=120&section=footer"/>
 
 *"The quieter you become, the more you are able to hear."*
 
