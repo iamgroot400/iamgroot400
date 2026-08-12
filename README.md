@@ -46,16 +46,12 @@ I'm working my way into cybersecurity learning how systems get attacked so I can
 
 ---
 
-## Contribution History (All-Time)
+## Contribution Grid
 
-<div align="center">
+<div align="center" style="background-color:#0d1117;">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamgroot400&year=2026&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true&custom_title=2026" width="100%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamgroot400&year=2025&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true&custom_title=2025" width="100%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamgroot400&year=2024&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true&custom_title=2024" width="100%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamgroot400&year=2023&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true&custom_title=2023" width="100%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamgroot400&year=2022&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true&custom_title=2022" width="100%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamgroot400&year=2021&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true&custom_title=2021" width="100%"/>
+<img src="https://raw.githubusercontent.com/iamgroot400/iamgroot400/main/assets/matrix-rain.svg" width="100%"/>
+<img src="https://ghchart.rshah.org/00ff41/iamgroot400" width="100%"/>
 
 </div>
 
