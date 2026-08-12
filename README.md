@@ -50,8 +50,7 @@ I'm working my way into cybersecurity learning how systems get attacked so I can
 
 <div align="center" style="background-color:#0d1117;">
 
-<img src="https://raw.githubusercontent.com/iamgroot400/iamgroot400/main/assets/matrix-rain.svg" width="100%"/>
-<img src="https://ghchart.rshah.org/00ff41/iamgroot400" width="100%"/>
+<img src="https://raw.githubusercontent.com/iamgroot400/iamgroot400/main/assets/matrix-contrib.svg" width="100%"/>
 
 </div>
 
