@@ -37,7 +37,7 @@ I'm working my way into cybersecurity learning how systems get attacked so I can
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamgroot400&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iamgroot400&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamgroot400&theme=highcontrast&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgroot400&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" height="165"/>
@@ -46,11 +46,16 @@ I'm working my way into cybersecurity learning how systems get attacked so I can
 
 ---
 
-## Live Activity Graph
+## Contribution History (All-Time)
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamgroot400&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamgroot400&year=2026&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true&custom_title=2026" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamgroot400&year=2025&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true&custom_title=2025" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamgroot400&year=2024&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true&custom_title=2024" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamgroot400&year=2023&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true&custom_title=2023" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamgroot400&year=2022&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true&custom_title=2022" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamgroot400&year=2021&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true&custom_title=2021" width="100%"/>
 
 </div>
 
