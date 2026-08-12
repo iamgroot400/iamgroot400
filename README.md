@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm working my way into cybersecurity — learning how systems get attacked so I can help defend them. Alongside that, I build practical software projects to sharpen my engineering fundamentals, since understanding how things are built is the first step to understanding how they break.
+I'm working my way into cybersecurity learning how systems get attacked so I can help defend them. Alongside that, I build practical software projects to sharpen my engineering fundamentals, since understanding how things are built is the first step to understanding how they break.
 
 **Focus areas:** Cybersecurity · Network Security · Ethical Hacking / CTFs · Web App Security · Linux · Python Scripting · Web Development
 
